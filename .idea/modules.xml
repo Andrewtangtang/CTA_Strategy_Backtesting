@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/backtestsystem.iml" filepath="$PROJECT_DIR$/.idea/backtestsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BTC-USDT CTA Strategy Backtesting with Vectorbt.iml" filepath="$PROJECT_DIR$/.idea/BTC-USDT CTA Strategy Backtesting with Vectorbt.iml" />
     </modules>
   </component>
 </project>
