@@ -12,19 +12,8 @@ This project implements and backtests Commodity Trading Advisor (CTA) strategies
 - Generate performance reports and visualizations
 - Support for strategy optimization and parameter tuning
 
+## Visualizations
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 5%;">
-  <figure style="margin: 0; width: 45%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="image/cumulative.jpg" alt="Cumulative Return" style="width: 100%; height: auto; max-height: 300px; object-fit: contain;"/>
-    <figcaption>Cumulative Return</figcaption>
-  </figure>
-  <figure style="margin: 0; width: 45%; text-align: center; display: flex; flex-direction: column; align-items: center;">
-    <img src="image/parameter_tuning.jpg" alt="Parameter Tuning" style="width: 100%; height: auto; max-height: 300px; object-fit: contain;"/>
-    <figcaption>Parameter Tuning</figcaption>
-  </figure>
-</div>
-
-
-
-
-
+| ![Cumulative Return](image/cumulative.jpg) | ![Parameter Tuning](image/parameter_tuning.jpg) |
+|:------------------------------------------:|:-----------------------------------------------:|
+|         **Cumulative Return**              |         **Parameter Tuning**                   |
